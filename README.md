@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Yashvi Gor  
 
-<!--
-**Yashvigor/Yashvigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring App Developer** | 💻 **Computer Engineering Student**  
+🌟 Passionate about building innovative, user-friendly applications.  
 
-Here are some ideas to get you started:
+## 💡 About Me  
+- 🎯 Currently learning **App Development** from scratch.  
+- 📚 Skilled in **Java, Python, C, C++, HTML, CSS, JavaScript**.  
+- 🛠️ Love solving problems and creating interactive user experiences.  
+- 🌱 Exploring **App Development** and **Full-Stack Web Development**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:**  
+`HTML5` `CSS3` `JavaScript`  
+
+⭐ **Believeing in**:
+"First, solve the problem. Then, write the code."
+"Errors are part of life!
