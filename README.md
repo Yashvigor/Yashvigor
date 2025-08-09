@@ -14,4 +14,4 @@
 
 ⭐ **Believeing in**:
 "First, solve the problem. Then, write the code."
-"Errors are part of life!
+"Errors are part of life!"
