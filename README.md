@@ -13,6 +13,6 @@
 **Frontend:**  
 `HTML5` `CSS3` `JavaScript`  
 
-⭐ **Believeing in**:
+⭐ **Believing in**:
 "First, solve the problem. Then, write the code."
 "Errors are part of life!"
