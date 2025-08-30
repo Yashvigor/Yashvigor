@@ -2,7 +2,7 @@
 
 I’m **Yashvi Gor**, an aspiring **Flutter Developer** with a keen interest in **Machine Learning**.  
 
-- 🌱 Currently focusing on building mobile applications with Flutter  
+- 🌱 Currently focusing on building applications with Flutter  
 - 🤖 Exploring the fundamentals of Web Development and Machine Learning. 
 
 
