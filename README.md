@@ -27,11 +27,10 @@ I’m **Yashvi Gor**, an aspiring **Flutter Developer** with a keen interest in 
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Yashvigor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashvigor&show_icons=true&theme=radical)
+![Yashvigor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashvigor&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvigor&layout=compact)
 
----
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yashvigor&theme=default)](https://git.io/streak-stats)
 
