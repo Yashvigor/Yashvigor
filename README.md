@@ -21,5 +21,17 @@ I’m **Yashvi Gor**, an aspiring **Flutter Developer** with a keen interest in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
 
+### 🌟 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-Yashvi%20Gor-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yashvi-gor-7502a3324/)](https://www.linkedin.com/in/yashvi-gor-7502a3324/)
+
+---
+
+### 📈 GitHub Stats
+
+![Yashvigor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashvigor&show_icons=true&theme=radical)
+
+---
+
 
 
