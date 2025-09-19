@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anushka-cmd/anushka-cmd/master/assets/coding-girl.svg" alt="Girl coding" width="350"/>
+  <img src="https://raw.githubusercontent.com/Yashvigor/Yashvigor/main/assets/robot-girl-coding.png" alt="Girl coding" width="350"/>
 </div>
 
 ---
@@ -15,7 +15,6 @@
 - 🌱 I’m currently learning: **Machine Learning, Dart, Flutter Animations**
 - 🤝 I’m looking to collaborate on: **Flutter mobile apps**
 - 💬 Ask me about: **Machine Learning, Flutter, Competitive Programming**
-- 📫 [Email](yashvigor.ce@gmail.com)
 
 ---
 
@@ -49,8 +48,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yashvigor&show_icons=true&theme=radical" alt="Yashvigor's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashvigor&theme=radical" alt="Yashvigor's GitHub Streak" />
 </p>
 
 ---
