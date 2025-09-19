@@ -21,3 +21,15 @@
 [![LinkedIn](https://img.shields.io/badge/-Yashvi%20Gor-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yashvi-gor-7502a3324/)](https://www.linkedin.com/in/yashvi-gor-7502a3324/)
 
 ---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashvigor&show_icons=true&theme=city_light&hide_title=true&count_private=true" alt="Yashvigor's GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashvigor&theme=city_light" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvigor&layout=compact&theme=city_light&hide=html,css" alt="Top Languages" />
+</p>
+
+---
