@@ -37,9 +37,9 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/Yashvigor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/Yashvigor" target="_blank"><img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=yellow" alt="LeetCode" /></a>
-  <a href="https://www.codechef.com/users/Yashvigor" target="_blank"><img src="https://img.shields.io/badge/CodeChef-brown?logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://www.linkedin.com/in/yashvi-gor-7502a3324/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/Yashvigor/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=yellow" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/yashvigor" target="_blank"><img src="https://img.shields.io/badge/CodeChef-brown?logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </p>
 
 ---
