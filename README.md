@@ -1,4 +1,23 @@
 
+<h1 align="center">Hi 👋, I'm Yashvigor</h1>
+<h3 align="center">A passionate programmer from India Aspiring in Machine Learning & Flutter</h3>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anushka-cmd/anushka-cmd/master/assets/coding-girl.svg" alt="Girl coding" width="350"/>
+</div>
+
+---
+
+## 🛠️ About Me
+
+- 🌱 I’m currently learning: **Machine Learning, Dart, Flutter Animations**
+- 🤝 I’m looking to collaborate on: **Flutter mobile apps**
+- 💬 Ask me about: **Machine Learning, Flutter, Competitive Programming**
+- 📫 [Email](yashvigor.ce@gmail.com)
+
+---
 
 
 ### 🚀 Languages and Tools:
@@ -16,8 +35,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
 
-### 🌟 Connect with Me
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Yashvi%20Gor-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yashvi-gor-7502a3324/)](https://www.linkedin.com/in/yashvi-gor-7502a3324/)
+<p align="left">
+  <a href="https://linkedin.com/in/Yashvigor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/Yashvigor" target="_blank"><img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=yellow" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/Yashvigor" target="_blank"><img src="https://img.shields.io/badge/CodeChef-brown?logo=codechef&logoColor=white" alt="CodeChef" /></a>
+</p>
 
 ---
+
+## 📊 GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashvigor&show_icons=true&theme=radical" alt="Yashvigor's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashvigor&theme=radical" alt="Yashvigor's GitHub Streak" />
+</p>
+
+---
+
+
