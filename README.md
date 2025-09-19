@@ -1,12 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Yashvigor</h1>
+<h1 align="center">Hi 👋, I'm Yashvi Gor</h1>
 <h3 align="center">A passionate programmer from India Aspiring in Machine Learning & Flutter</h3>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Yashvigor/Yashvigor/main/assets/robot-girl-coding.png" alt="Girl coding" width="350"/>
-</div>
 
 ---
 
@@ -44,7 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats & Streak
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yashvigor&show_icons=true&theme=radical" alt="Yashvigor's GitHub Stats" />
