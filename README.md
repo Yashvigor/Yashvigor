@@ -1,17 +1,3 @@
-<h1 align="center">Hi 👋, I'm Yashvi Gor</h1>
-<h3 align="center">A passionate programmer from India Aspiring in Machine Learning & Flutter</h3>
-
----
-
-## 🛠️ About Me
-
-- 🌱 I’m currently learning: **Machine Learning, Dart, Flutter Animations**
-- 🤝 I’m looking to collaborate on: **Flutter mobile apps**
-- 💬 Ask me about: **Machine Learning, Flutter, Competitive Programming**
-
----
-
-
 ### 🚀 Languages and Tools:
 
 <p align="left">
