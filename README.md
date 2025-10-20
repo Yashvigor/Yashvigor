@@ -21,14 +21,6 @@
   <a href="https://www.codechef.com/users/yashvigor" target="_blank"><img src="https://img.shields.io/badge/CodeChef-brown?logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </p>
 
----
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashvigor&show_icons=true&theme=radical" alt="Yashvigor's GitHub Stats" />
-</p>
-
----
 
 
